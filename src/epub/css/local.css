@@ -54,7 +54,7 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 
-.headstone {
-    font-style: italic;
-    text-align: center;
+.headstone{
+	font-style: italic;
+	text-align: center;
 }
