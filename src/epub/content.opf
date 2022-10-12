@@ -41,17 +41,17 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh98004865</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">After visiting a graveyard, a man finds his appearance has mysteriously changed.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;After visiting a graveyard, a man finds his appearance has mysteriously changed. Returning home only to be received with horror and suspicion by his family, he must reckon with the social consequences of his bizarre transformation, while searching for an explanation and solution.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/walter-de-la-mare"&gt;Walter de la Mare&lt;/a&gt; has a reputation for crafting ghost stories of philosophical depth and haunting ambiguity. &lt;i&gt;The Return&lt;/i&gt;, one of only two long-form supernatural works by the author, follows this trend, and sees de la Mare contemplatively exploring ideas of personal identity, spirituality, and the consequences of living in blind adherance to social expectations. Functioning as a fantastical agent of mid-life crisis, Arthur Lawford's 'condition' uproots the foundations of his existence and casts into doubt all he had taken for granted about himself and his place in the world.&lt;/p&gt;
+			&lt;p&gt;There are no cheap scares or easy answers in &lt;i&gt;The Return&lt;/i&gt;. It's a work rich with enigmatic detail, charting a personal struggle to find meaning in a world where nothing is certain - a theme as relevant and recognisable now as when the novel was first published in 1910.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3075</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/thereturn00delaiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-de-la-mare_the-return</meta>
 		<dc:creator id="author">Walter de la Mare</dc:creator>
 		<meta property="file-as" refines="#author">Mare, Walter de la</meta>
@@ -59,10 +59,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Walter_de_la_Mare</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80057178</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Wilhelm Kotarbiński</dc:contributor>
+		<meta property="file-as" refines="#artist">Kotarbiński, Wilhelm</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wilhelm_Kotarbi%C5%84ski</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2016031231.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eve Sobol</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
@@ -71,9 +71,9 @@
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Michael Cox</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cox, Michael</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://twitter.com/shinmichaelcox</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
