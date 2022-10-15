@@ -33,6 +33,11 @@ section[epub|type~="epigraph"] > *{
 	text-align: initial;
 }
 
+[epub|type~="z3998:verse"] {
+	font-style: italic;
+	text-align: center;
+}
+
 @supports(display: flex){
 	section[epub|type~="epigraph"]{
 		align-items: center;
@@ -47,9 +52,4 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-}
-
-.headstone{
-	font-style: italic;
-	text-align: center;
 }
