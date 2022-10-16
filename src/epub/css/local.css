@@ -33,7 +33,7 @@ section[epub|type~="epigraph"] > *{
 	text-align: initial;
 }
 
-[epub|type~="z3998:verse"] {
+[epub|type~="z3998:verse"]{
 	font-style: italic;
 	text-align: center;
 }
