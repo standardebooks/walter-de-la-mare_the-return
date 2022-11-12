@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3075</dc:source>
 		<dc:source>https://archive.org/details/thereturn00delaiala</dc:source>
-		<meta property="se:word-count">82288</meta>
+		<meta property="se:word-count">82425</meta>
 		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-de-la-mare_the-return</meta>
 		<dc:creator id="author">Walter de la Mare</dc:creator>
