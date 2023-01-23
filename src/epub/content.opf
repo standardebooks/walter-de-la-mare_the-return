@@ -29,17 +29,14 @@
 		<dc:title id="title">The Return</dc:title>
 		<meta property="file-as" refines="#title">Return, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
-		<dc:subject id="subject-2">Supernatural -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Paranormal fiction</dc:subject>
 		<dc:subject id="subject-3">Horror tales</dc:subject>
-		<dc:subject id="subject-4">Paranormal fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">sh2008111539</meta>
+		<meta property="term" refines="#subject-2">sh98004865</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85062084</meta>
-		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">sh98004865</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">After visiting a graveyard, a man finds his appearance has mysteriously changed.</dc:description>
